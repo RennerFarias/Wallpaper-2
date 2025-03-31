@@ -1,2 +1,1 @@
-# Wallpaper-2
- 
+If you've found your way here and haven't checked out repository 1 yet, this is the second folder of wallpapers in my collection. I recommend taking a look at the wallpaper-1 repository as well, so you'll have access to the full range of wallpapers to suit your preferences.
